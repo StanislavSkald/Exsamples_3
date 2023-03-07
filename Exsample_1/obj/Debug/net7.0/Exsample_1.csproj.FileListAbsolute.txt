@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\bin\Debug\net7.0\Exsample_1.exe
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\bin\Debug\net7.0\Exsample_1.deps.json
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\bin\Debug\net7.0\Exsample_1.runtimeconfig.json
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\bin\Debug\net7.0\Exsample_1.dll
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\bin\Debug\net7.0\Exsample_1.pdb
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\obj\Debug\net7.0\Exsample_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\obj\Debug\net7.0\Exsample_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\obj\Debug\net7.0\Exsample_1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\obj\Debug\net7.0\Exsample_1.AssemblyInfo.cs
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\obj\Debug\net7.0\Exsample_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\obj\Debug\net7.0\Exsample_1.dll
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\obj\Debug\net7.0\refint\Exsample_1.dll
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\obj\Debug\net7.0\Exsample_1.pdb
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\obj\Debug\net7.0\Exsample_1.genruntimeconfig.cache
+C:\Users\user\Desktop\Обучение\Семинары\Часть 3\Exsamples3\Exsample_1\obj\Debug\net7.0\ref\Exsample_1.dll
